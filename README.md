@@ -29,7 +29,7 @@ I am a Statistician with a passion for applying statistical methods to solve pro
 #### 2. [HandGripStrength]([https://github.com/SAKK-Statistics/survSAKK](https://github.com/vsomas/Validation4NormativeValues))
    - **Description**: A sample size calculator and accuracy test for tabulated normative values
    - **Technologies Used**: R, git
-   - **[From a "Spiel Popeye und miss deine Greifkraft" activity to Swiss norms for handgrip strength](https://doi.org/10.5167/uzh-252094)
+   - [From a "Spiel Popeye und miss deine Greifkraft" activity to Swiss norms for handgrip strength](https://doi.org/10.5167/uzh-252094)
 
 ### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yourusername)
