@@ -20,6 +20,8 @@ I am a Statistician with a passion for applying statistical methods to solve pro
 - **Tools**: RStudio,Git, SQL, Shiny, Quarto
 - **Data Visualization**: ggplot2
 
+### Projects
+
 #### 1. [survSAKK](https://github.com/SAKK-Statistics/survSAKK)
    - **Description**: The survSAKK package creates publication ready KM summary figures with base R.
    - **Technologies Used**: R, git
@@ -30,4 +32,4 @@ I am a Statistician with a passion for applying statistical methods to solve pro
    - **[Title of Publication 1](https://doi.org/10.5167/uzh-252094)
 
 ### Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [From a "Spiel Popeye und miss deine Greifkraft" activity to Swiss norms for handgrip strength](https://www.linkedin.com/in/yourusername)
