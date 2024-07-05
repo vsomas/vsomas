@@ -8,7 +8,7 @@
 
 I am a Statistician with a passion for applying statistical methods to solve problems in biological and health sciences. With strong foundation in biostatistics, epidemiology I enjoy working on projects that contribute to advancements in medical research and public health.
 
-- 🔭 I’m currently working on various projects involving survival analysis, longitudinal data analysis, and clinical trial design.
+- 🔭 I’m currently working on various projects involving survival analysis, regression analysis, and clinical trial design.
 - 👯 I’m looking to collaborate on R Projects
 - 🌱 I’m always learning and staying up-to-date with the latest developments in biostatistics and data science.
 - 💬 Ask me about biostatistics, R,SAS and data visualization.
@@ -16,7 +16,7 @@ I am a Statistician with a passion for applying statistical methods to solve pro
 ### Skills
 
 - **Languages**: R, SAS, Python
-- **Statistical Methods**: Survival Analysis, Longitudinal Data Analysis, Bayesian Methods, Multivariate Analysis
+- **Statistical Methods**: Survival Analysis, 
 - **Tools**: RStudio,Git, SQL, Shiny, Quarto
 - **Data Visualization**: ggplot2
 
