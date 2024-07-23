@@ -16,9 +16,7 @@ I am a Statistician with a passion for applying statistical methods to solve pro
 ### Skills
 
 - **Languages**: R, SAS, Python
-- **Statistical Methods**: Survival Analysis, 
 - **Tools**: RStudio,Git, SQL, Shiny, Quarto
-- **Data Visualization**: ggplot2
 
 ### Projects
 
