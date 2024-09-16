@@ -22,6 +22,8 @@ I am a Statistician with a passion for applying statistical methods to solve pro
 #### 1. [survSAKK](https://github.com/SAKK-Statistics/survSAKK)
    - **Description**: The survSAKK package creates publication ready KM summary figures with base R.
    - **Technologies Used**: R, git
+   - [CRAN](https://cran.r-project.org/package=survSAKK)
+   
 
 #### 2. [HandGripStrength]([https://github.com/SAKK-Statistics/survSAKK](https://github.com/vsomas/Validation4NormativeValues))
    - **Description**: A sample size calculator and accuracy test for tabulated normative values
