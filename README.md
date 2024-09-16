@@ -31,4 +31,4 @@ I am a Statistician with a passion for applying statistical methods to solve pro
    - [From a "Spiel Popeye und miss deine Greifkraft" activity to Swiss norms for handgrip strength](https://doi.org/10.5167/uzh-252094)
 
 ### Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [https://www.linkedin.com/in/vsomas/](https://www.linkedin.com/in/vsomas/)
